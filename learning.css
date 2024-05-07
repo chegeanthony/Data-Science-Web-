@@ -37,7 +37,12 @@
 .intro {
     font-size: 4rem;
     padding: 10px;
-    margin: 10px;
+    margin: 0px;
+}
+.subheading{
+    font-size: 2rem;
+    padding: 10px;
+    margin: 0px;
 }
 
 .decription p {
